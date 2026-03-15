@@ -55,3 +55,8 @@ A user can ask how much water a certain plant needs in the current time of year 
 * Kaggle agricultural datasets
 * USDA plant hardiness zone data
 * Public gardening guides
+
+
+
+https://youtu.be/5uJgjMmps3Q
+
