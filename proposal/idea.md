@@ -1,46 +1,57 @@
 # Grow A Garden: AI Garden Planning Assistant
 
 ## Team Members
-Anthony Acosta
-Lilly McNeil - lvmcnei1@asu.edu
-David Bobadilla Payan
-Jessica Sillero
-Lucas Wixom
+* Anthony Acosta - avacost1@asu.edu
+* Lilly McNeil - lvmcnei1@asu.edu
+* David Bobadilla Payan - deobadi@asu.edu
+* Jessica Sillero - jnsiller@asu.edu
+* Lucas Wixom - lawixom@asu.edu
 
 ## Problem Statement
-Who is the User?
-The main users are people with a backyard or garden who want to recieve guidance on what to plant.
+Who is the User?  
+The main users are people with a backyard or garden who want to receive guidance on what to plant.
 
-What problem or pain point do they experience?
+What problem or pain point do they experience?  
 Many people want to start gardening but lack knowledge on what grows best in their region and season. Most gardening information online is generic and does not consider factors like local weather or planting time, and people need to do significant research. As a result, beginners often feel discouraged from starting.
 
 ## Why Now?
-Why does this problem matter in the next 3-5 years?
-Growing food in a garden can be more affordable and sustainable for the future.
+Why does this problem matter in the next 3–5 years?  
+Growing food in a garden can be an affordable option to eat organic and healthy food. As people become more aware of sustainability, personalized guidance on home grown food will become increasingly valuable.
 
-What changed that makes this possible now?
-Recent advancements in AI such as large language models and agricultural datasets make it possible to generate personilized garden plans for each individual.
+What changed that makes this possible now?  
+Recent advancements in AI such as large language models and agricultural datasets make it possible to generate personalized garden plans for each individual.
 
 ## Proposed AI-Powered Solution
-What does your product do for the user? 
-GrowAGarden, an AI chat assistant, recommends crops and planting/watering schedules based on the users location, seasion, and plot size.
+What does your product do for the user?  
+GrowAGarden, an AI chat assistant, recommends crops and planting/watering schedules based on the user's location, season, available resources, and plot size.
 
-Where does AI/ML add unique value vs simple rules?
-AI can combine multiple types of information such as climate, seasonal timing, and other importnat information. This can be used to create a simplified and personalized reccomendation while eliminating the learning curve and research that needs to be done.
+Where does AI/ML add unique value vs simple rules?  
+AI can combine multiple types of information, such as climate, seasonal timing, and other important information specific to the user's needs. This can be used to create a simplified and personalized recommendation while eliminating the learning curve and research that needs to be done.
 
 ## Initial Technical Concept
-What data would you need?
-The AI assistant requires data on plants and their growing seasons, temperature ranges, time to grow, and watering schedule. It may also need climate data for different regions.
+What data would you need?  
+The AI assistant requires data on plants and their growing seasons, temperature ranges, time to grow, and watering schedules. It may also need climate data for different regions. Data on how different techniques are used to grow plants in variable conditions.
 
-What model(s) might you use?
+What model(s) might you use?  
 We plan to use a GPT-style language model to generate planting plans and advice.
 
-How could your nanoGPT work feed into this?
-The nanoGPT model could be used as a custom generative component as well as fine tuning. The custom generative component will control what is outputted and is fine tuned on gardening text.
+How could your nanoGPT work feed into this?  
+The nanoGPT model could be used as a custom generative component as well as for fine-tuning. The custom generative component will control what is outputted and is fine tuned on gardening text.
 
 ## MVP Scope
-What can you realistically build in 6 weeks?
-Define a very concrete v1 feature
+What can you realistically build in 6 weeks?  
+Simple Chatbot Assistant that provides recommendations based on user input.
+
+Define a very concrete v1 feature  
+A user can ask how much water a certain plant needs in the current time of year and climate, and the chatbot will guide the user on how they should proceed based on the given data.
+
 ## Risks and Open Questions
 3 Unknowns
+* Ensuring that the AI has accurate data and provides accurate recommendations on all regions around the world
+* Designing a system that provides unique value to the user
+* Finding reliable datasets on plant growing conditions and compatibility
+
 ## Planned Data Sources
+* Kaggle agricultural datasets
+* USDA plant hardiness zone data
+* Public gardening guides
