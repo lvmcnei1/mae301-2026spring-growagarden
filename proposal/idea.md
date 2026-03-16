@@ -9,24 +9,24 @@
 
 ## Problem Statement
 Who is the User?  
-The main users are people with a backyard or garden who want to receive guidance on what to plant.
+The main users are people with a backyard or garden who lack experience and want to receive guidance on plant selection and care.
 
 What problem or pain point do they experience?  
 Many people want to start gardening but lack knowledge on what grows best in their region and season. Most gardening information online is generic and does not consider factors like local weather or planting time, and people need to do significant research. As a result, beginners often feel discouraged from starting.
 
 ## Why Now?
 Why does this problem matter in the next 3–5 years?  
-Growing food in a garden can be an affordable option to eat organic and healthy food. As people become more aware of sustainability, personalized guidance on home grown food will become increasingly valuable.
+Rising grocery prices have encouraged more people to grow their own food to save money. A garden can be an affordable option to eat organic and healthy food. Also, as people become more aware of sustainability and environmental impact, personalized guidance on home grown food will become increasingly valuable.
 
 What changed that makes this possible now?  
-Recent advancements in AI such as large language models and agricultural datasets make it possible to generate personalized garden plans for each individual.
+Recent advancements in AI such as large language models and access to large agricultural datasets make it possible to generate personalized garden plans for each individual.
 
 ## Proposed AI-Powered Solution
 What does your product do for the user?  
 GrowAGarden, an AI chat assistant, recommends crops and planting/watering schedules based on the user's location, season, available resources, and plot size.
 
 Where does AI/ML add unique value vs simple rules?  
-AI can combine multiple types of information, such as climate, seasonal timing, and other important information specific to the user's needs. This can be used to create a simplified and personalized recommendation while eliminating the learning curve and research that needs to be done.
+AI can combine multiple types of information, such as climate, seasonal timing, and other important information specific to the user's needs. This can be used to create a simplified and personalized recommendation while eliminating the learning curve and research that needs to be done. It also allows the system to generate flexible explanations and recommendations rather than relying only on fixed lists.
 
 ## Initial Technical Concept
 What data would you need?  
@@ -36,7 +36,7 @@ What model(s) might you use?
 We plan to use a GPT-style language model to generate planting plans and advice.
 
 How could your nanoGPT work feed into this?  
-The nanoGPT model could be used as a custom generative component as well as for fine-tuning. The custom generative component will control what is outputted and is fine tuned on gardening text.
+The nanoGPT model could be fine tuned on gardening datasets and used as a generative component that produces planting plans and gardening advice from user inputs.
 
 ## MVP Scope
 What can you realistically build in 6 weeks?  
