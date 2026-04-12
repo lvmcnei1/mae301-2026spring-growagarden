@@ -1,0 +1,10 @@
+Grow A Garden Phase 2 architecture
+
+User inputs (zone or ZIP, date, sun, area, watering preference)
+    -> climate resolver (zone heuristic frost dates, ZIP metadata)
+    -> processed crop profile loader
+    -> crop scoring engine
+    -> planting window selector
+    -> watering adjustment module (sample CSV or Open-Meteo)
+    -> schedule generator
+    -> CSV + markdown artifacts

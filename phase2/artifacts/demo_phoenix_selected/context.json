@@ -1,0 +1,10 @@
+{
+  "planning_date": "2026-04-12",
+  "zone": "9b",
+  "last_frost": "2026-02-05",
+  "first_frost": "2026-12-20",
+  "garden_area_sqft": 48.0,
+  "sun_hours": 8.0,
+  "watering_preference": "medium",
+  "location_meta": null
+}

@@ -1,0 +1,21 @@
+name,category,season,zone_min,zone_max,min_sun_hours,space_sqft_per_plant,base_water_inches_per_week,hot_water_inches_per_week,days_to_maturity,spring_direct_start_offset_days,spring_direct_end_offset_days,spring_transplant_start_offset_days,spring_transplant_end_offset_days,fall_direct_start_offset_days,fall_direct_end_offset_days,fall_transplant_start_offset_days,fall_transplant_end_offset_days,indoor_seed_start_offset_days,indoor_seed_end_offset_days,notes
+Tomatoes,vegetable,warm,3.0,10.5,8,4.0,1.5,2.0,75,,,0.0,84.0,,,-112.0,-70.0,-56.0,-42.0,Best started indoors or purchased as a transplant.
+Basil,herb,warm,4.0,10.5,6,1.0,1.25,1.75,65,0.0,70.0,0.0,56.0,-84.0,-42.0,-84.0,-42.0,-42.0,-28.0,Good companion herb for tomatoes.
+Lettuce,vegetable,cool,3.0,10.5,4,0.5,1.0,1.25,50,-42.0,21.0,-14.0,21.0,-84.0,-28.0,-56.0,-21.0,-42.0,-28.0,Fast-growing cool-season crop; good for succession planting.
+Carrots,vegetable,cool,3.0,10.5,6,0.15,1.0,1.25,75,-35.0,21.0,,,-84.0,-42.0,,,,,Direct sow only; keep seed bed evenly moist.
+Beans,vegetable,warm,4.0,10.5,6,0.5,1.25,1.75,60,0.0,70.0,,,-84.0,-42.0,,,,,Direct sow after frost risk has passed.
+Beets,vegetable,cool,3.0,10.5,5,0.2,1.0,1.25,60,-28.0,28.0,,,-84.0,-35.0,,,,,Cool-weather root crop; workable in spring and fall.
+Broccoli,vegetable,cool,3.0,9.5,6,1.5,1.25,1.5,80,-21.0,7.0,-21.0,21.0,-100.0,-70.0,-84.0,-56.0,-49.0,-35.0,Strong spring and fall crop; struggles in sustained heat.
+Cucumbers,vegetable,warm,4.0,10.5,6,3.0,1.5,2.0,60,7.0,70.0,7.0,70.0,-84.0,-42.0,-70.0,-42.0,-28.0,-14.0,Warm soil speeds growth and reduces transplant shock.
+Sweet Corn,vegetable,warm,4.0,10.5,8,1.0,1.25,1.75,90,0.0,70.0,,70.0,,,,,,,Plant in blocks instead of single rows for pollination.
+Eggplant,vegetable,warm,5.0,10.5,8,2.25,1.25,1.75,80,,,14.0,70.0,,,-112.0,-84.0,-70.0,-56.0,Needs stable warm nights before transplanting outdoors.
+Bell Peppers,vegetable,warm,4.0,10.5,8,1.5,1.25,1.75,80,,,7.0,70.0,,,-112.0,-84.0,-70.0,-56.0,Best performance comes from transplants.
+Potatoes,vegetable,cool,3.0,9.5,6,1.0,1.0,1.25,90,-14.0,21.0,,,-100.0,-70.0,,,,,Use seed potatoes rather than true transplants.
+Radishes,vegetable,cool,3.0,10.5,4,0.1,0.75,1.0,30,-28.0,21.0,,,-56.0,-14.0,,,,,Very fast crop; useful for quick wins in the MVP demo.
+Spinach,vegetable,cool,3.0,9.5,4,0.2,1.0,1.25,45,-42.0,7.0,,,-70.0,-28.0,,,,,Bolts quickly in heat; best in cool windows.
+Kale,vegetable,cool,3.0,10.5,4,1.0,1.0,1.25,55,-28.0,21.0,-21.0,21.0,-84.0,-28.0,-70.0,-28.0,-42.0,-28.0,Cold tolerant and beginner-friendly.
+Peas,vegetable,cool,3.0,8.5,6,0.25,1.0,1.25,65,-42.0,0.0,,,-56.0,-35.0,,,,,Classic early-spring direct-sow crop.
+Cilantro,herb,cool,3.0,10.5,4,0.25,0.75,1.0,45,-28.0,21.0,,,-84.0,-28.0,,,,,Prefers cooler weather and can bolt in heat.
+Parsley,herb,cool,4.0,10.5,4,0.5,0.75,1.0,75,-28.0,21.0,-14.0,21.0,-84.0,-28.0,-70.0,-28.0,-56.0,-42.0,Slow to germinate; indoor starts help.
+Okra,vegetable,warm,6.0,10.5,8,1.5,1.25,1.75,60,14.0,70.0,14.0,56.0,-98.0,-56.0,-84.0,-56.0,-35.0,-21.0,Thrives in heat; especially useful in Arizona-like climates.
+Summer Squash,vegetable,warm,4.0,10.5,6,4.0,1.25,1.75,50,7.0,70.0,7.0,70.0,-84.0,-42.0,-70.0,-42.0,-28.0,-14.0,Fast warm-season producer with large space needs.

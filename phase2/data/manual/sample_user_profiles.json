@@ -1,0 +1,22 @@
+[
+  {
+    "profile_name": "phoenix_backyard_beginner",
+    "zipcode": "85001",
+    "zone": "9b",
+    "planning_date": "2026-04-12",
+    "garden_area_sqft": 48,
+    "sun_hours": 8,
+    "watering_preference": "medium",
+    "weather_csv": "data/sample_weather/phoenix_week.csv"
+  },
+  {
+    "profile_name": "seattle_spring_garden",
+    "zipcode": "98101",
+    "zone": "8b",
+    "planning_date": "2026-04-12",
+    "garden_area_sqft": 36,
+    "sun_hours": 5,
+    "watering_preference": "low",
+    "weather_csv": "data/sample_weather/seattle_week.csv"
+  }
+]

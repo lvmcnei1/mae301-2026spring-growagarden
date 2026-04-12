@@ -1,0 +1,41 @@
+date,crop,task,details,water_inches,gallons_per_sqft,gallons_per_plant
+2026-04-12,Basil,plant_outdoors,Plant outdoors this week. Estimated space: 12 plants.,,,
+2026-04-12,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-04-12,Beans,plant_outdoors,Plant outdoors this week. Estimated space: 24 plants.,,,
+2026-04-12,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-04-12,Bell Peppers,plant_outdoors,Plant outdoors this week. Estimated space: 8 plants.,,,
+2026-04-12,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-04-12,Tomatoes,plant_outdoors,Plant outdoors this week. Estimated space: 3 plants.,,,
+2026-04-12,Tomatoes,water,Water about 4 times this week.,2.0,1.25,4.98
+2026-04-19,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-04-19,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-04-19,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-04-19,Tomatoes,water,Water about 4 times this week.,2.0,1.25,4.98
+2026-04-26,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-04-26,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-04-26,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-04-26,Tomatoes,water,Water about 4 times this week.,2.0,1.25,4.98
+2026-05-03,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-05-03,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-05-03,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-05-03,Tomatoes,water,Water about 4 times this week.,2.0,1.25,4.98
+2026-05-10,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-05-10,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-05-10,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-05-10,Tomatoes,water,Water about 4 times this week.,2.0,1.25,4.98
+2026-05-17,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-05-17,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-05-17,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-05-17,Tomatoes,water,Water about 4 times this week.,2.0,1.25,4.98
+2026-05-24,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-05-24,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-05-24,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-05-24,Tomatoes,water,Water about 4 times this week.,2.0,1.25,4.98
+2026-05-31,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-05-31,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-05-31,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-05-31,Tomatoes,water,Water about 4 times this week.,2.0,1.25,4.98
+2026-06-07,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-06-07,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-06-07,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-06-07,Tomatoes,water,Water about 4 times this week.,2.0,1.25,4.98

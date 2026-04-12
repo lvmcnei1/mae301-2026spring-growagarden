@@ -1,0 +1,64 @@
+date,crop,task,details,water_inches,gallons_per_sqft,gallons_per_plant
+2026-03-20,Beets,plant_outdoors,Plant outdoors this week. Estimated space: 26 plants.,,,
+2026-03-20,Beets,water,Water about 2 times this week.,0.31,0.19,0.04
+2026-03-20,Broccoli,plant_outdoors,Plant outdoors this week. Estimated space: 3 plants.,,,
+2026-03-20,Broccoli,water,Water about 2 times this week.,0.56,0.35,0.52
+2026-03-20,Carrots,plant_outdoors,Plant outdoors this week. Estimated space: 35 plants.,,,
+2026-03-20,Carrots,water,Water about 2 times this week.,0.31,0.19,0.03
+2026-03-20,Cilantro,plant_outdoors,Plant outdoors this week. Estimated space: 21 plants.,,,
+2026-03-20,Cilantro,water,Water about 2 times this week.,0.11,0.07,0.02
+2026-03-20,Kale,plant_outdoors,Plant outdoors this week. Estimated space: 5 plants.,,,
+2026-03-20,Kale,water,Water about 2 times this week.,0.31,0.19,0.19
+2026-03-20,Lettuce,plant_outdoors,Plant outdoors this week. Estimated space: 10 plants.,,,
+2026-03-20,Lettuce,water,Water about 2 times this week.,0.31,0.19,0.1
+2026-03-27,Beets,water,Water about 2 times this week.,0.31,0.19,0.04
+2026-03-27,Broccoli,water,Water about 2 times this week.,0.56,0.35,0.52
+2026-03-27,Carrots,water,Water about 2 times this week.,0.31,0.19,0.03
+2026-03-27,Cilantro,water,Water about 2 times this week.,0.11,0.07,0.02
+2026-03-27,Kale,water,Water about 2 times this week.,0.31,0.19,0.19
+2026-03-27,Lettuce,water,Water about 2 times this week.,0.31,0.19,0.1
+2026-04-03,Beets,water,Water about 2 times this week.,0.31,0.19,0.04
+2026-04-03,Broccoli,water,Water about 2 times this week.,0.56,0.35,0.52
+2026-04-03,Carrots,water,Water about 2 times this week.,0.31,0.19,0.03
+2026-04-03,Cilantro,water,Water about 2 times this week.,0.11,0.07,0.02
+2026-04-03,Kale,water,Water about 2 times this week.,0.31,0.19,0.19
+2026-04-03,Lettuce,water,Water about 2 times this week.,0.31,0.19,0.1
+2026-04-10,Beets,water,Water about 2 times this week.,0.31,0.19,0.04
+2026-04-10,Broccoli,water,Water about 2 times this week.,0.56,0.35,0.52
+2026-04-10,Carrots,water,Water about 2 times this week.,0.31,0.19,0.03
+2026-04-10,Cilantro,water,Water about 2 times this week.,0.11,0.07,0.02
+2026-04-10,Kale,water,Water about 2 times this week.,0.31,0.19,0.19
+2026-04-10,Lettuce,water,Water about 2 times this week.,0.31,0.19,0.1
+2026-04-17,Beets,water,Water about 2 times this week.,0.31,0.19,0.04
+2026-04-17,Broccoli,water,Water about 2 times this week.,0.56,0.35,0.52
+2026-04-17,Carrots,water,Water about 2 times this week.,0.31,0.19,0.03
+2026-04-17,Cilantro,water,Water about 2 times this week.,0.11,0.07,0.02
+2026-04-17,Kale,water,Water about 2 times this week.,0.31,0.19,0.19
+2026-04-17,Lettuce,water,Water about 2 times this week.,0.31,0.19,0.1
+2026-04-24,Beets,water,Water about 2 times this week.,0.31,0.19,0.04
+2026-04-24,Broccoli,water,Water about 2 times this week.,0.56,0.35,0.52
+2026-04-24,Carrots,water,Water about 2 times this week.,0.31,0.19,0.03
+2026-04-24,Cilantro,water,Water about 2 times this week.,0.11,0.07,0.02
+2026-04-24,Kale,water,Water about 2 times this week.,0.31,0.19,0.19
+2026-04-24,Lettuce,water,Water about 2 times this week.,0.31,0.19,0.1
+2026-05-01,Beets,water,Water about 2 times this week.,0.31,0.19,0.04
+2026-05-01,Broccoli,water,Water about 2 times this week.,0.56,0.35,0.52
+2026-05-01,Carrots,water,Water about 2 times this week.,0.31,0.19,0.03
+2026-05-01,Cilantro,water,Water about 2 times this week.,0.11,0.07,0.02
+2026-05-01,Kale,water,Water about 2 times this week.,0.31,0.19,0.19
+2026-05-01,Lettuce,water,Water about 2 times this week.,0.31,0.19,0.1
+2026-05-04,Cilantro,harvest_estimate,Estimated first harvest window begins around this date.,,,
+2026-05-08,Beets,water,Water about 2 times this week.,0.31,0.19,0.04
+2026-05-08,Broccoli,water,Water about 2 times this week.,0.56,0.35,0.52
+2026-05-08,Carrots,water,Water about 2 times this week.,0.31,0.19,0.03
+2026-05-08,Cilantro,water,Water about 2 times this week.,0.11,0.07,0.02
+2026-05-08,Kale,water,Water about 2 times this week.,0.31,0.19,0.19
+2026-05-08,Lettuce,water,Water about 2 times this week.,0.31,0.19,0.1
+2026-05-09,Lettuce,harvest_estimate,Estimated first harvest window begins around this date.,,,
+2026-05-14,Kale,harvest_estimate,Estimated first harvest window begins around this date.,,,
+2026-05-15,Beets,water,Water about 2 times this week.,0.31,0.19,0.04
+2026-05-15,Broccoli,water,Water about 2 times this week.,0.56,0.35,0.52
+2026-05-15,Carrots,water,Water about 2 times this week.,0.31,0.19,0.03
+2026-05-15,Cilantro,water,Water about 2 times this week.,0.11,0.07,0.02
+2026-05-15,Kale,water,Water about 2 times this week.,0.31,0.19,0.19
+2026-05-15,Lettuce,water,Water about 2 times this week.,0.31,0.19,0.1

@@ -1,0 +1,17 @@
+scenario_id,zone,planning_date,sun_hours,garden_area_sqft,watering_preference,crop_name,expected_can_plant_now
+zone5b_march,5b,2026-03-20,7,32,medium,Lettuce,1
+zone5b_march,5b,2026-03-20,7,32,medium,Spinach,1
+zone5b_march,5b,2026-03-20,7,32,medium,Tomatoes,0
+zone5b_march,5b,2026-03-20,7,32,medium,Basil,0
+zone9b_april,9b,2026-04-12,8,48,medium,Tomatoes,1
+zone9b_april,9b,2026-04-12,8,48,medium,Basil,1
+zone9b_april,9b,2026-04-12,8,48,medium,Lettuce,0
+zone9b_april,9b,2026-04-12,8,48,medium,Broccoli,0
+zone7a_august,7a,2026-08-15,7,36,medium,Broccoli,1
+zone7a_august,7a,2026-08-15,7,36,medium,Lettuce,1
+zone7a_august,7a,2026-08-15,7,36,medium,Beans,0
+zone7a_august,7a,2026-08-15,7,36,medium,Peas,0
+zone6a_may,6a,2026-05-20,8,40,medium,Tomatoes,1
+zone6a_may,6a,2026-05-20,8,40,medium,Beans,1
+zone6a_may,6a,2026-05-20,8,40,medium,Peas,0
+zone6a_may,6a,2026-05-20,8,40,medium,Spinach,0

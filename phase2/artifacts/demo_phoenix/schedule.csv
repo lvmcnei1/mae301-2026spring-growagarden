@@ -1,0 +1,56 @@
+date,crop,task,details,water_inches,gallons_per_sqft,gallons_per_plant
+2026-04-06,Beans,harvest_estimate,Estimated first harvest window begins around this date.,,,
+2026-04-11,Basil,harvest_estimate,Estimated first harvest window begins around this date.,,,
+2026-04-12,Basil,plant_outdoors,Plant outdoors this week. Estimated space: 9 plants.,,,
+2026-04-12,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-04-12,Beans,plant_outdoors,Plant outdoors this week. Estimated space: 19 plants.,,,
+2026-04-12,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-04-12,Bell Peppers,plant_outdoors,Plant outdoors this week. Estimated space: 6 plants.,,,
+2026-04-12,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-04-12,Eggplant,plant_outdoors,Plant outdoors this week. Estimated space: 4 plants.,,,
+2026-04-12,Eggplant,water,Water about 4 times this week.,1.75,1.09,2.45
+2026-04-12,Okra,plant_outdoors,Plant outdoors this week. Estimated space: 6 plants.,,,
+2026-04-12,Okra,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-04-19,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-04-19,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-04-19,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-04-19,Eggplant,water,Water about 4 times this week.,1.75,1.09,2.45
+2026-04-19,Okra,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-04-20,Okra,harvest_estimate,Estimated first harvest window begins around this date.,,,
+2026-04-26,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-04-26,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-04-26,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-04-26,Eggplant,water,Water about 4 times this week.,1.75,1.09,2.45
+2026-04-26,Okra,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-05-03,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-05-03,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-05-03,Bell Peppers,harvest_estimate,Estimated first harvest window begins around this date.,,,
+2026-05-03,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-05-03,Eggplant,water,Water about 4 times this week.,1.75,1.09,2.45
+2026-05-03,Okra,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-05-10,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-05-10,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-05-10,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-05-10,Eggplant,harvest_estimate,Estimated first harvest window begins around this date.,,,
+2026-05-10,Eggplant,water,Water about 4 times this week.,1.75,1.09,2.45
+2026-05-10,Okra,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-05-17,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-05-17,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-05-17,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-05-17,Eggplant,water,Water about 4 times this week.,1.75,1.09,2.45
+2026-05-17,Okra,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-05-24,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-05-24,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-05-24,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-05-24,Eggplant,water,Water about 4 times this week.,1.75,1.09,2.45
+2026-05-24,Okra,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-05-31,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-05-31,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-05-31,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-05-31,Eggplant,water,Water about 4 times this week.,1.75,1.09,2.45
+2026-05-31,Okra,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-06-07,Basil,water,Water about 4 times this week.,1.75,1.09,1.09
+2026-06-07,Beans,water,Water about 4 times this week.,1.75,1.09,0.55
+2026-06-07,Bell Peppers,water,Water about 4 times this week.,1.75,1.09,1.64
+2026-06-07,Eggplant,water,Water about 4 times this week.,1.75,1.09,2.45
+2026-06-07,Okra,water,Water about 4 times this week.,1.75,1.09,1.64
