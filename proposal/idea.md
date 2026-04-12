@@ -1,57 +1,88 @@
-Grow A Garden: AI Garden Planning Assistant
-Team Members
-Anthony Acosta - avacost1@asu.edu
-Lilly McNeil - lvmcnei1@asu.edu
-David Bobadilla Payan - deobadi@asu.edu
-Jessica Sillero - jnsiller@asu.edu
-Lucas Wixom - lawixom@asu.edu
-Problem Statement
-Who is the User?
-The main users are people with a backyard or garden who lack experience and want to receive guidance on plant selection and care.
+# Grow A Garden: AI Garden Planning Assistant
 
-What problem or pain point do they experience?
-Many people want to start gardening but lack knowledge on what grows best in their region and season. Most gardening information online is generic and does not consider factors like local weather or planting time, and people need to do significant research. As a result, beginners often feel discouraged from starting.
+## Team Members
+- Anthony Acosta — avacost1@asu.edu  
+- Lilly McNeil — lvmcnei1@asu.edu  
+- David Bobadilla Payan — deobadi@asu.edu  
+- Jessica Sillero — jnsiller@asu.edu  
+- Lucas Wixom — lawixom@asu.edu  
 
-Why Now?
-Why does this problem matter in the next 3–5 years?
-Rising grocery prices have encouraged more people to grow their own food to save money. A garden can be an affordable option to eat organic and healthy food. Also, as people become more aware of sustainability and environmental impact, personalized guidance on home grown food will become increasingly valuable.
+---
 
-What changed that makes this possible now?
-Recent advancements in AI such as large language models and access to large agricultural datasets make it possible to generate personalized garden plans for each individual.
+## Problem Statement
 
-Proposed AI-Powered Solution
-What does your product do for the user?
-GrowAGarden, an AI chat assistant, recommends crops and planting/watering schedules based on the user's location, season, available resources, and plot size.
+### Who is the user?
+The primary users are people with a backyard or garden who have little gardening experience and want guidance on plant selection, planting, and care.
 
-Where does AI/ML add unique value vs simple rules?
-AI can combine multiple types of information, such as climate, seasonal timing, and other important information specific to the user's needs. This can be used to create a simplified and personalized recommendation while eliminating the learning curve and research that needs to be done. It also allows the system to generate flexible explanations and recommendations rather than relying only on fixed lists.
+### What problem or pain point do they experience?
+Many people want to start gardening but do not know what plants grow best in their region or during the current season. Most gardening information online is broad and generic, and it often does not account for local weather, planting time, or individual growing conditions. As a result, beginners must do significant research on their own, which can feel overwhelming and discouraging.
 
-Initial Technical Concept
-What data would you need?
-The AI assistant requires data on plants and their growing seasons, temperature ranges, time to grow, and watering schedules. It may also need climate data for different regions. Data on how different techniques are used to grow plants in variable conditions.
+---
 
-What model(s) might you use?
-We plan to use a GPT-style language model to generate planting plans and advice.
+## Why Now?
 
-How could your nanoGPT work feed into this?
-The nanoGPT model could be fine tuned on gardening datasets and used as a generative component that produces planting plans and gardening advice from user inputs.
+### Why does this problem matter in the next 3–5 years?
+Rising grocery prices are encouraging more people to grow their own food in order to save money. Home gardening can be an affordable way to access fresh, organic, and healthy produce. In addition, growing awareness of sustainability and environmental impact is increasing interest in home-grown food and self-sufficient living.
 
-MVP Scope
-What can you realistically build in 6 weeks?
-Simple Chatbot Assistant that provides recommendations based on user input.
+### What changed that makes this possible now?
+Recent advancements in AI, especially large language models, along with greater access to agricultural datasets, make it possible to generate personalized gardening guidance for individual users based on their unique conditions and needs.
 
-Define a very concrete v1 feature
-A user can ask how much water a certain plant needs in the current time of year and climate, and the chatbot will guide the user on how they should proceed based on the given data.
+---
 
-Risks and Open Questions
-3 Unknowns
+## Proposed AI-Powered Solution
 
-Ensuring that the AI has accurate data and provides accurate recommendations on all regions around the world
-Designing a system that provides unique value to the user
-Finding reliable datasets on plant growing conditions and compatibility
-Planned Data Sources
-Kaggle agricultural datasets
-USDA plant hardiness zone data
-Public gardening guides
-Video Link
-https://youtu.be/5uJgjMmps3Q
+### What does your product do for the user?
+**Grow A Garden** is an AI chat assistant that recommends crops, planting schedules, and watering guidance based on the user’s location, season, available resources, and plot size.
+
+### Where does AI/ML add unique value versus simple rules?
+AI adds value by combining multiple kinds of information at once, such as climate, seasonal timing, and user-specific constraints. This allows the system to generate personalized recommendations and flexible explanations instead of relying only on static rule-based lists. The result is a simpler and more user-friendly experience that reduces the research burden for beginners.
+
+---
+
+## Initial Technical Concept
+
+### What data would you need?
+The AI assistant would require data such as:
+- plant growing seasons
+- temperature ranges
+- watering schedules
+- time to maturity
+- climate and regional growing information
+- gardening techniques for different environments and conditions
+
+### What model(s) might you use?
+We plan to use a GPT-style language model to generate planting plans and gardening advice.
+
+### How could your nanoGPT work feed into this?
+The nanoGPT model could be fine-tuned on gardening-related datasets and used as a generative component that produces planting plans and gardening recommendations based on user input.
+
+---
+
+## MVP Scope
+
+### What can you realistically build in 6 weeks?
+A simple chatbot assistant that provides gardening recommendations based on user input.
+
+### Define a very concrete v1 feature
+A user can ask how much water a certain plant needs during the current time of year and in their climate, and the chatbot will provide guidance on how they should proceed based on that information.
+
+---
+
+## Risks and Open Questions
+
+### Top 3 unknowns
+- Ensuring that the AI has accurate data and provides reliable recommendations across many regions of the world  
+- Designing a system that provides clear and meaningful value to the user  
+- Finding reliable datasets on plant growing conditions and plant compatibility  
+
+---
+
+## Planned Data Sources
+- Kaggle agricultural datasets  
+- USDA plant hardiness zone data  
+- Public gardening guides  
+
+---
+
+## Video Link
+[Watch the project pitch video](https://youtu.be/5uJgjMmps3Q)
