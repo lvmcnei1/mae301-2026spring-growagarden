@@ -8,16 +8,16 @@
 
 ### Minimum Viable Product
 
-Our MVP for this course is a working system that allows a user to:
+Our MVP for this project is a working system that takes a users personalized conditions and creates crop recommendations and a gardening schedule.
 
-1. Input gardening conditions such as:
+1. Input:
 
    * USDA hardiness zone or location
    * current date or season
    * available garden space
    * sunlight and watering preference
 
-2. Receive:
+2. Output:
 
    * crop recommendations suited to their conditions
    * a structured weekly watering and planting schedule
@@ -42,17 +42,17 @@ Capabilities:
 
 Limitations:
 
-* **Does not reliably pull from structured datasets at runtime**
-* Relies heavily on prompt-based reasoning (LLM-style)
-* Limited dataset coverage leads to more generic outputs
+* Does not yet reliably pull from structured datasets at runtime
+* Limited crop dataset  leads to more generic outputs
+* Does not provide specific watering plan
 
-This is our **primary MVP feature** because it directly answers the core user question: *"What should I plant right now?"*
+This is our primary MVP feature because it directly addresses the objective of the project to provide recommendations, and it is more user friendly than the second prototype
 
 ---
 
 ### B. Scheduling-Focused System (Secondary Prototype)
 
-This system focuses on generating an **8-week gardening schedule** based on selected crops.
+While this system still provides plant recommendations, the main focus of this prototype is to show how we would pull from datasets and generate an 8-week gardening schedule.
 
 Capabilities:
 
@@ -75,17 +75,15 @@ We assembled an initial dataset including:
 * spacing and time-to-maturity information
 * public gardening datasets (e.g., Kaggle)
 
-However, dataset integration is **inconsistent across systems**, and most data is sourced from the United States.
-
 ---
 
 ### D. Workflow
 
 The current system pipeline:
 
-1. Load and preprocess crop data (used mainly in scheduling system)
+1. Load and preprocess crop data (used mostly for second prototype)
 2. Interpret user inputs (zone, date, constraints)
-3. Generate recommendations (partially prompt-based)
+3. Generate recommendations
 4. Generate a schedule based on selected crops
 5. Output results as tables and markdown summaries
 
@@ -93,28 +91,25 @@ The current system pipeline:
 
 ## 3. Technical Bottlenecks
 
-* **Limited dataset integration**: The recommendation system does not fully utilize structured datasets
-* **Limited dataset scope**: Most data is sourced from the United States, reducing generalizability
-* Incomplete crop coverage and missing edge cases
-* Lack of real-time or dynamic data integration
+* **Limited dataset integration**: The first prototype does not fully utilize structured datasets
+* **Limited dataset scope**: Most data is sourced from the United States and currently the datasets only have select crops, reducing the scope of the system
+* **Lack of real-time data integration**: The system does not take into account current weather trends and changes in climate over time
 
 ---
 
 ## 4. What Does Not Work Yet
 
 * Recommendation system produces outputs that can feel generic
-* Weak connection between recommendations and underlying data
-* No unified pipeline combining recommendation + scheduling
-* Scheduling output is functional but not visually refined
-* Limited personalization beyond basic inputs
+* The first prototype does not pull from outside data, which limits the information that it can give
+* Scheduling output is more functional but not visually refined
+* No unified system combining recommendation + scheduling
 
 ---
 
 ## 5. Key Areas for Improvement
 
-* **Combine the two demo systems** into a single, unified workflow
-* Improve dataset usage in the recommendation system
-* Improve the **layout and readability** of the scheduling output
+* Combine the two demo systems into a single workflow
+* Improve the layout and readability of the scheduling output
 * Expand dataset coverage beyond U.S.-based data
 * Improve explanation quality to better reflect user-specific conditions
 
@@ -124,12 +119,10 @@ The current system pipeline:
 
 We successfully built:
 
-* A recommendation prototype (prompt-based)
-* A dataset-driven scheduling system
+* A recommendation prototype
+* A scheduling system
 * A reproducible demo in Google Colab
 * Exportable outputs (CSV and markdown)
-
-These components demonstrate meaningful technical progress and iteration toward a functional AI gardening assistant.
 
 ---
 
