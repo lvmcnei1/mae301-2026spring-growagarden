@@ -115,6 +115,8 @@ Our system improves on this by:
 * using structured agricultural data
 * enforcing user-specific constraints
 * generating consistent schedules instead of general advice
+
+---
   
 ## 5. What Does Not Work Yet
 
